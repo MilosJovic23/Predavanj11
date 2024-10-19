@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.slika {
+	transition: 1s ease-in-out;
+}
+.zoom {
+	transform: scale(1.5);
+}
+#paraHolder {
+	background-color: red;
+}
